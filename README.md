@@ -1,4 +1,4 @@
-# Welcome to the .dotfiles of my Archlinux i3 laptop set
+# Welcome to the .dotfiles of my Archlinux i3 laptop setup
 
 From https://wiki.archlinux.org/title/I3 : i3 is a tiling window manager inspired by wmii that is primarily targeted at developers and advanced users. 
 
@@ -9,6 +9,31 @@ This repository contains my dotfiles in a .tar file which you can extract to you
 <BR />
 I also added a file called packages.txt containing all the packages I currently have installed.  If I ever break my system it can be a useful list to have.  You probably don't need all those packages.  Picom is used for some eyecandy.  Dunst is configured at the notification manager.  The lockscreen is a small script that creates a screenshot of the desktop, and then blurs that.  
 
+# Tools to install besides Archlinux base install and i3
+
+> Redshift
+> Alacritty
+> Termite
+> Arandr / xrandr
+> Lxappearance
+> Bluez / bluez-utils
+> Firefox
+> i3lock
+> Blurlocker
+> Rofi
+> Thunar
+> Firefox
+> Audacious
+> Mate-power-manager
+> NetworkManager + nm-applet
+> Udiskie / udisks2
+> Feh
+> Xwallpaper
+> Maim
+> Dunst
+> Picom
+> Dex
+> 
 # Important keyboard shortcuts
 
 | Key(s) | Description |
