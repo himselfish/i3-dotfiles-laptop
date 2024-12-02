@@ -33,6 +33,7 @@ I also added a file called packages.txt containing all the packages I currently 
 > Dunst<BR>
 > Picom<BR>
 > Dex<BR>
+> i3-scratchpad-git<BR>
 
 # Important keyboard shortcuts
 
