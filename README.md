@@ -36,18 +36,18 @@ I fully realize i3 is pretty basic yet there are a few tools that I startup at l
 > Picom<BR>
 > Dex<BR>
 > i3-scratchpad-git<BR>
-> Pacman-contrib
-> Polybar
-> Playerctl
-> Python-mpris2
-> ttf-hack 3.003-7
-> ttf-hack-nerd 3.3.0-1
-> ttf-jetbrains-mono-nerd 3.3.0-1
-> ttf-meslo-nerd-font-powerlevel10k 2.3.3-1
-> ttf-nerd-fonts-symbols 3.3.0-1
-> ttf-nerd-fonts-symbols-common 3.3.0-1
-> Zsh
-> Oh-my-sh's theme zsh-theme-powerlevel10k 
+> Pacman-contrib<BR>
+> Polybar<BR>
+> Playerctl<BR>
+> Python-mpris2<BR>
+> ttf-hack 3.003-7<BR>
+> ttf-hack-nerd 3.3.0-1<BR>
+> ttf-jetbrains-mono-nerd 3.3.0-1<BR>
+> ttf-meslo-nerd-font-powerlevel10k 2.3.3-1<BR>
+> ttf-nerd-fonts-symbols 3.3.0-1<BR>
+> ttf-nerd-fonts-symbols-common 3.3.0-1<BR>
+> Zsh<BR>
+> Oh-my-sh's theme zsh-theme-powerlevel10k<BR> 
 
 # Important keyboard shortcuts
 
