@@ -11,29 +11,29 @@ I also added a file called packages.txt containing all the packages I currently 
 
 # Tools to install besides Archlinux base install and i3
 
-> Redshift
-> Alacritty
-> Termite
-> Arandr / xrandr
-> Lxappearance
-> Bluez / bluez-utils
-> Firefox
-> i3lock
-> Blurlocker
-> Rofi
-> Thunar
-> Firefox
-> Audacious
-> Mate-power-manager
-> NetworkManager + nm-applet
-> Udiskie / udisks2
-> Feh
-> Xwallpaper
-> Maim
-> Dunst
-> Picom
-> Dex
-> 
+> Redshift<BR>
+> Alacritty<BR>
+> Termite<BR>
+> Arandr / xrandr<BR>
+> Lxappearance<BR>
+> Bluez / bluez-utils<BR>
+> Firefox<BR>
+> i3lock<BR>
+> Blurlocker<BR>
+> Rofi<BR>
+> Thunar<BR>
+> Firefox<BR>
+> Audacious<BR>
+> Mate-power-manager<BR>
+> NetworkManager + nm-applet<BR>
+> Udiskie / udisks2<BR>
+> Feh<BR>
+> Xwallpaper<BR>
+> Maim<BR>
+> Dunst<BR>
+> Picom<BR>
+> Dex<BR>
+
 # Important keyboard shortcuts
 
 | Key(s) | Description |
