@@ -47,8 +47,10 @@ I also added a file called packages.txt containing all the packages I currently 
 | $mod+Shift+(1...9) | Move window to workspace (1...9) |
 | $mod+d | Rofi |
 | $mod+Enter | Alacritty |
+| ~ | Termite Quake-style terminal |
 | $mod+t | Thunar |
 | $mod+b | Firefox |
+| $mod+m | Audacious |
 | $mod+q | Kill |
 | $mod+r | Resize mode (use arrow keys to resize, then press ENTER or ESC) |
 | $mod+v | Split vertically |
@@ -63,7 +65,8 @@ I also added a file called packages.txt containing all the packages I currently 
 | $mod+Shift+Space | Toggle floating |
 | $mod+Shift+Arrow key | Move window |
 | $mod+Tab | Workspace next |
-$ mod+Shift+Tab | Workspace previous |
+| mod+Shift+Tab | Workspace previous |
+| $mod+l | Blurred lockscreen |
 
 
 If your keyboard has multimedia keys such as play/pause, next, previous or volume keys they should work too.
