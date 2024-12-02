@@ -7,7 +7,9 @@ I'm running Archlinux with i3 as my window manager both on my laptop and my Nuc.
 <BR />
 This repository contains my dotfiles in a .tar file which you can extract to your ~/.config folder.<BR />
 <BR />
-I also added a file called packages.txt containing all the packages I currently have installed.  If I ever break my system it can be a useful list to have.  You probably don't need all those packages.  Picom is used for some eyecandy.  Dunst is configured at the notification manager.  The lockscreen is a small script that creates a screenshot of the desktop, and then blurs that.  
+I also added a file called packages.txt containing all the packages I currently have installed.  If I ever break my system it can be a useful list to have.  You probably don't need all those packages.  Picom is used for some eyecandy.  Dunst is configured at the notification manager.  The lockscreen is simply the current layout but blurred.
+
+I fully realize i3 is pretty basic yet there are a few tools that I startup at login: nm-applet, udiskie, mate-power-manager, polybar, dunst, picom, blueman-applet, termite and redshift-gtk.
 
 # Tools to install besides Archlinux base install and i3
 
@@ -34,6 +36,18 @@ I also added a file called packages.txt containing all the packages I currently 
 > Picom<BR>
 > Dex<BR>
 > i3-scratchpad-git<BR>
+> Pacman-contrib
+> Polybar
+> Playerctl
+> Python-mpris2
+> ttf-hack 3.003-7
+> ttf-hack-nerd 3.3.0-1
+> ttf-jetbrains-mono-nerd 3.3.0-1
+> ttf-meslo-nerd-font-powerlevel10k 2.3.3-1
+> ttf-nerd-fonts-symbols 3.3.0-1
+> ttf-nerd-fonts-symbols-common 3.3.0-1
+> Zsh
+> Oh-my-sh's theme zsh-theme-powerlevel10k 
 
 # Important keyboard shortcuts
 
