@@ -47,7 +47,7 @@ I also added a file called packages.txt containing all the packages I currently 
 | $mod+Shift+(1...9) | Move window to workspace (1...9) |
 | $mod+d | Rofi |
 | $mod+Enter | Alacritty |
-| ~ | Termite Quake-style terminal |
+| Twosuperior | Termite Quake-style terminal |
 | $mod+t | Thunar |
 | $mod+b | Firefox |
 | $mod+m | Audacious |
@@ -76,6 +76,12 @@ If your keyboard has multimedia keys such as play/pause, next, previous or volum
 One of the best features of tiling window managers is scratchpad.  I'm not going to explain in details what it is but you can consider it like an invisible workspace where you can send windows to and retrieve from.  Here are the keybinds that will make your life a whole lot easier.<BR />
 Move to scratchpad : ```bindsym $mod+Shift+minus move scratchpad```<BR />
 Toggle between windows in scratchpad : ```bindsym $mod+minus scratchpad show```<BR />
+<BR>
+This also allows for a Quake-style terminal.  Termite in dropdown mode is used for that.
+Start Termite : ``` exec --no-startup-id termite --name dropdown &```<BR />
+Bind to the twosuperior key : ``` bindsym twosuperior [instance="dropdown"] scratchpad show, move position center ```<BR />
+Define the dropdown properties : ```for_window [instance="dropdown"] floating enable, resize set 1300 1000, move scratchpad ```<BR />
+
 
 # Auto-mount external hard drives
 I prefer my USB connected external hard drives to be mounted automatically.  For this I installed ```udisks2``` which is enabled at boot via ```systemctl enable --now udisks2.service```.  As for automount I prefer ```udiskie``` which is autostarted with i3 via ```exec --no-startup-id udiskie --tray``` in my ~/.config/i3/config file.
